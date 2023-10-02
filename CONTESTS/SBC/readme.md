@@ -35,15 +35,15 @@ Competitive-Programming
 |--------------------|----|-------------------|
 |[#0 ](./PROVAS/2022)|2022| Rickelme Dias     |
 |[#1 ](./PROVAS/2021)|2021| Rickelme Dias     |
-|[#2 ](./PROVAS/2020)|2020| Ariane Rosseti    |
-|[#3 ](./PROVAS/2019)|2019| Ariane Rosseti    |
+|[#2 ](./PROVAS/2020)|2020| Ariane Rossetti   |
+|[#3 ](./PROVAS/2019)|2019| Ariane Rossetti   |
 |[#4 ](./PROVAS/2018)|2018| Julio Manoel      |
 |[#5 ](./PROVAS/2017)|2017| Julio Manoel      |
 |[#6 ](./PROVAS/2016)|2016| Lucas Foltran     |
 |[#7 ](./PROVAS/2015)|2015| Lucas Foltran     |
 |[#8 ](./PROVAS/2014)|2014| Rafael Henrique   |
 |[#9 ](./PROVAS/2013)|2013| Rafael Henrique   |
-|[#10](./PROVAS/2012)|2012|                   |
+|[#10](./PROVAS/2012)|2012| Thalison Henrique |
 |[#11](./PROVAS/2011)|2011|                   |
 |[#12](./PROVAS/2010)|2010|                   |
 |[#13](./PROVAS/2009)|2009|                   |

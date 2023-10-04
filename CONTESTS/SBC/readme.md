@@ -34,7 +34,7 @@ Competitive-Programming
 |                    |Ano | Aluno Responsável |
 |--------------------|----|-------------------|
 |[#0 ](./PROVAS/2022)|2022| Rickelme Dias     |
-|[#1 ](./PROVAS/2021)|2021| Rickelme Dias     |
+|[#1 ](./PROVAS/2021)|2021| Em busca de site para submeter                  |
 |[#2 ](./PROVAS/2020)|2020| Ariane Rossetti   |
 |[#3 ](./PROVAS/2019)|2019| Ariane Rossetti   |
 |[#4 ](./PROVAS/2018)|2018| Julio Manoel      |
@@ -45,7 +45,7 @@ Competitive-Programming
 |[#9 ](./PROVAS/2013)|2013| Rafael Henrique   |
 |[#10](./PROVAS/2012)|2012| Thalison Henrique |
 |[#11](./PROVAS/2011)|2011|                   |
-|[#12](./PROVAS/2010)|2010|                   |
+|[#12](./PROVAS/2010)|2010| Rickelme Dias     |
 |[#13](./PROVAS/2009)|2009|                   |
 |[#14](./PROVAS/2008)|2008|                   |
 |[#15](./PROVAS/2007)|2007|                   |

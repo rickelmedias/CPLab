@@ -1,5 +1,5 @@
 # Problema B - Bobo da Corte
-###### Caminho para Beecrowd
+###### [Caminho para Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2963)
 Para o exercício "Bobo da corte" da lista de 2019 a lógica utilizada foi a seguinte:
 
 A primeira entrada $N$ é a quantidade de bobos da corte que estão concorrendo a vaga, para obter a quantidade de votos será utilizado um for de $i = 1$ até $i < N$;

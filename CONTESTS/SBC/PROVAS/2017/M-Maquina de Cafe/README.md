@@ -6,7 +6,7 @@ Cada funcionário da SBC bebe 1 café expresso por dia. Ele precisa ir do andar 
 Sua tarefa é ajudar a diretoria a posicionar a máquina de forma a minimizar o tempo total gasto pelos funcionários subindo e descendo escadas.
 
 ## Entrada
-A entrada consiste em 3 números, A1 , A2 , A3 (0 ≤ A1 , A2 , A3 ≤ 1000), um por linha, onde Ai representa o número de pessoas que trabalham no i-ésimo andar.
+A entrada consiste em $3$ números, $A_1 , A_2 , A_3 (0 ≤ A_1 , A_2 , A_3 ≤ 1000)$, um por linha, onde $A_i$ representa o número de pessoas que trabalham no i-ésimo andar.
 
 ## Saída
 Seu programa deve imprimir uma única linha, contendo o número total de minutos a serem gastos com o melhor posicionamento possível da máquina.

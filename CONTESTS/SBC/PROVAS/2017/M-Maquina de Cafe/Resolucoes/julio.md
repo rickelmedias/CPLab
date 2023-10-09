@@ -9,3 +9,8 @@ Em resumo, a solução envolve:
 2. Para cada combinação, calcular o tempo total necessário para que os funcionários se desloquem entre os andares A, B e C, levando em consideração os 2 minutos extras para o retorno ao andar de origem.
 
 Dessa forma, você poderá determinar o tempo mínimo necessário para que todos os funcionários se desloquem entre os andares com base nas três entradas disponíveis.
+
+<details>
+  <summary>Imagem Explicativa da Solução Proposta</summary>
+  <img src="https://github.com/RickelmeDias/CPLab/assets/43411893/938e0815-d0ff-48b7-a097-1eb257d88468" />
+</details>

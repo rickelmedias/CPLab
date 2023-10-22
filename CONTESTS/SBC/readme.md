@@ -1,15 +1,14 @@
 # Maratona SBC
 ###### Resolvendo as competições passadas Maratona SBC
 
-
-Essa parte do repositório é destinada as soluções da maratona sbc de programação, cada aluno deverá selecionar dois anos que deseja resolver e a medida do tempo ir resolvendo, cada solução enviada deve conter:
+Essa parte do repositório é destinada as soluções da Maratona SBC de Programação, onde cada aluno deverá selecionar dois anos que deseja resolver e a medida do tempo ir resolvendo, cada solução enviada deve conter:
 
 1. O código utilizado para solucionar;
 2. Uma explicação sobre como o aluno chegou na solução.
 
-##### Como particiar?
+##### Como participar?
 
-Você aluno deve editar esse documento e colocar seu nome no ano que deseja resolver.
+Você, aluno, deve editar esse documento e colocar seu nome no ano que deseja resolver.
 
 ##### Como enviar os exercicios?
 
@@ -34,7 +33,7 @@ Competitive-Programming
 |                    |Ano | Aluno Responsável |
 |--------------------|----|-------------------|
 |[#0 ](./PROVAS/2022)|2022| Rickelme Dias     |
-|[#1 ](./PROVAS/2021)|2021| Em busca de site para submeter                  |
+|[#1 ](./PROVAS/2021)|2021| Pedro Tejon       |
 |[#2 ](./PROVAS/2020)|2020| Ariane Rossetti   |
 |[#3 ](./PROVAS/2019)|2019| Ariane Rossetti   |
 |[#4 ](./PROVAS/2018)|2018| Julio Manoel      |
@@ -44,7 +43,7 @@ Competitive-Programming
 |[#8 ](./PROVAS/2014)|2014| Rafael Henrique   |
 |[#9 ](./PROVAS/2013)|2013| Rafael Henrique   |
 |[#10](./PROVAS/2012)|2012| Thalison Henrique |
-|[#11](./PROVAS/2011)|2011|                   |
+|[#11](./PROVAS/2011)|2011| Pedro Tejon       |
 |[#12](./PROVAS/2010)|2010| Rickelme Dias     |
 |[#13](./PROVAS/2009)|2009|                   |
 |[#14](./PROVAS/2008)|2008|                   |

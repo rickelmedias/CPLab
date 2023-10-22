@@ -16,14 +16,15 @@ A ideia básicamente então consiste em ir iterando cada bloco no array de `valo
 Exemplo:
 
 ```
+# valor_por_cor: guarda todos os valores recebidos em um set para fazer a busca mais rapidamente. (o set pode acabar ordenando esses valores, por esse motivo iremos buscar os valores de acordo com a sequencia de cores)
+# sequencia_de_cores: guardara do indice 0 ao quantidadeBlocos-1 toda a sequencia das cores.
+
 para bloco=0 enquanto bloco<quantidadeBlocos então faça:
     cor = sequencia_de_cores[bloco];
-    se (valPorCor[cor].naoEncontrou(bloco+1)) {
+    se (valor_por_cor[cor].naoEncontrou(bloco+1)): # como o primeiro valor da sequencia crescente é 1 e não zero, devemos primeiro buscar por "+1"
         mostrar "N\n";
-        finalizar;
-    }        
-    bloco+=1;  
-}
+        finalizar;    
+    bloco+=1;
 ```
 
 A verificação de que se existe um bloco em uma cor pode ser feita de maneira mais rápida se usarmos a estrutura set durante o input dos blocos para registrarmos que valores existem em cada cor, por isso a sugestão anteriormente do uso de set.
@@ -39,7 +40,16 @@ Esse exemplo abaixo não é possivel, pois não existe numero 1 na cor 2 para tr
 <2,3>
 ```
 
-Com pode observar, a gente precisa entender a ordem em que as cores e valores entraram, pois pode acontecer de fazer a verificação incorretamente, e dizer que o exemplo acima é possivel ordenar, sendo que não é, pois o <1,1> não pode subir para posição de <3,2> já que são cores difrentes.
+Veja as iterações com a lógica:
+
+- valor_por_cor: [[],[1],[3],[2]]
+- sequencia_de_cores: [2,1,3]
+
+Logo na primeira iteração, ou seja, na iteração $0$ o código vai tentar buscar pela sequencia_de_cores[0], no caso o $2$, e quando for acessar o valor_por_cor[2] ele terá em sua disposição o numero $3$ apenas, pois só esse foi guardado no grupo de cores $2$. Como ele está na primeira iteração ($0$), então ele está procurando pelo valor $0+1$.
+
+O código de busca seria: `valor_por_cor[cor].naoEncontrou(bloco+1)`, ou seja, `valor_por_cor[2].naoEncontrou(1) ?`, a resposta para esse cara seria $true$, pois o valor 1 não existe no grupo de valor da cor 2, como observado anteriormente,
+
+Como pode observar, a gente precisa entender a ordem em que as cores e valores entraram, pois pode acontecer de fazer a verificação incorretamente, e dizer que o exemplo acima é possivel ordenar, sendo que não é, pois o <1,1> não pode subir para posição de <3,2> já que são cores difrentes.
 
 Agora esse outro exemplo já é possivel, pois podemos trocar os valores <3,2> por <1,2> e os blocos irão ficar em ordem os valores.
 
@@ -74,3 +84,8 @@ No exemplo acima, também temos duas cores e quatro blocos e podemos prosseguir 
 
 - Index 0: verificamos se existe número 1 na mesma cor para botarmos no lugar, e vimos que existe, então continuamos;
 - Index 1: verificamos se existe número 2 na mesma cor para botarmos no lugar, e percebemos que não existe, assim quebrando o loop e imprimindo "N", indicando que não podemos ordenar a lista;
+
+
+Material Complemetnar:
+- [Vector of sets in C++](https://www.geeksforgeeks.org/vector-of-sets-in-c/)
+

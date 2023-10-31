@@ -1,5 +1,5 @@
-# Problema C - TRI-DU
-###### [Exercício no BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1933)
+# Problema C - Tri-Du
+###### [Caminho para BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1933)
 
 Neste exercício precisamos verificar duas condições de acordo com as regras do jogo, que são elas:
 

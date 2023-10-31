@@ -1,5 +1,5 @@
-# Questão A - Zerinho ou Um
-###### [Exercício no Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1467)
+# Problema A - Zerinho ou Um
+###### [Caminho para Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1467)
     
 A resolução para esse problema é bem simples, pois a mesma será feita utilizando uma cadeia de **`if`** e **`else if`**. Deve-se considerar sempre aquele que for diferente dos demais como o ganhador e imprimir a letra correspondente. Caso não haja um ganhador, deverá ser mostrado um '*'.
     

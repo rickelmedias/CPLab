@@ -1,5 +1,5 @@
-# Questão A - Volta
-###### [Exercício no BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1708)
+# Problema A - Volta
+###### [Caminho para BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1708)
 
 Para ajudar a resolver esse exercício, é útil montar uma tabela relacionando o tempo de cada carro na entrada e o número total de voltas fornecido na saída, encontrados nos exemplos do exercício, essa tabela permite determinar a volta em que a diferença de tempo entre os carros se torna maior ou igual ao tempo gasto pelo carro mais lento. Isso é feito multiplicando o tempo base, em segundos, de cada carro pelo número de voltas.
 

@@ -1,5 +1,5 @@
 # Problema A - Andando no Tempo
-###### [Exercício no BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2235)
+###### [Caminho para BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2235)
 
 Neste exercício, o usuário vai definir os valores para as fichas A,B e C.
 Um detalhe a ser observado é que a ordem das fichas não determina o curso da viagem, pois o usuário pode viajar com a ficha A e retornar com a C, sem utilizar a B por exemplo, ou ir ao passado com a C e voltar com a B, existem várias combinações/possibilidades entre as fichas!

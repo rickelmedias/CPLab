@@ -1,4 +1,5 @@
-# Resolução
+# Problema M - Máquina de Café
+###### [Caminho para Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2670)
 
 Uma abordagem direta e eficaz para resolver esse problema, dada a pequena quantidade de entradas (apenas três), é calcular todas as possíveis combinações. Essa abordagem é viável porque sabemos o número exato de entradas e ele é bastante baixo.
 

@@ -1,5 +1,5 @@
 # Problema F - Fase
-###### [Exercício no Beecrowd](https://beecrowd.com.br/judge/pt/problems/view/2663)
+###### [Caminho para Beecrowd](https://beecrowd.com.br/judge/pt/problems/view/2663)
 
 Para resolver esse problema, primeiro recebemos como entrada o número de interações, o valor mínimo de vencedores desejado e todas as pontuações obtidas. Em seguida, utilizamos o algoritmo de ordenação Merge Sort para organizar as pontuações em ordem crescente.
 

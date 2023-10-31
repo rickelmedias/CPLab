@@ -1,5 +1,5 @@
 # Problema F - Fatorial
-###### [Exercício no BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1936)
+###### [Caminho para BeeCrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1936)
 
 Neste exercício, precisamos mostrar na tela a menor quantidade de números fatorados onde a soma entre eles sejam iguais a N e, para isso, precisamos primeiramente ter esses números já fatorados. Portanto, o primeiro passo será receber o valor de N e fazer sua fatoração. 
 

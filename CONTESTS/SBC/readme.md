@@ -34,8 +34,8 @@ Competitive-Programming
 |--------------------|----|-------------------|----------------------------------------------------------------------|
 |[#0 ](./PROVAS/2022)|2022| Rickelme Dias     | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/origin/217) |
 |[#1 ](./PROVAS/2021)|2021| Pedro Tejon       | [Codeforces](https://codeforces.com/gym/103388)                      |
-|[#2 ](./PROVAS/2020)|2020| Ariane Rossetti   | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/origin/172) |
-|[#3 ](./PROVAS/2019)|2019| Ariane Rossetti   | [Codeforces](https://codeforces.com/gym/102861)                      |
+|[#2 ](./PROVAS/2020)|2020| Ariane Rossetti   | [Codeforces](https://codeforces.com/gym/102861)                      |
+|[#3 ](./PROVAS/2019)|2019| Ariane Rossetti   | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/origin/172) |
 |[#4 ](./PROVAS/2018)|2018| Julio Manoel      | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/origin/165) |
 |[#5 ](./PROVAS/2017)|2017| Julio Manoel      | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/origin/148) |
 |[#6 ](./PROVAS/2016)|2016| Lucas Foltran     | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/origin/125) |

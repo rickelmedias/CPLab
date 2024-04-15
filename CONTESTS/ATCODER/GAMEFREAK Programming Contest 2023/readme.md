@@ -1,4 +1,4 @@
-![GAMEFREAK Programming Competitive](https://github.com/RickelmeDias/Competitive-Programming/assets/43411893/9bbfabf9-695a-4bca-9f96-f756fdfdfa2d)
+![GAMEFREAK Programming Competitive](https://img.atcoder.jp/abc317/gf_ac_banner.png)
 
 # GAMEFREAK Programming Contest 2023 (AtCoder Beginner Contest 317)
 ## https://atcoder.jp/contests/abc317
